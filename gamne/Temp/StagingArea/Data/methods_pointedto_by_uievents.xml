@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Startbutton">
+			<method name="Sceneload"/>
+		</type>
+		<type fullname="Buttton">
+			<method name="Sceneload"/>
+		</type>
+	</assembly>
+</linker>
