@@ -15,4 +15,4 @@
 製作時間
 ３ヶ月
 
-[ゲーム](./kadai/index.html)
+[ゲーム](./index.html)
