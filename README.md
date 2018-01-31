@@ -15,4 +15,4 @@
 製作時間
 ３ヶ月
 
-[ゲーム](./index.html)
+[ゲーム](https://sugiyama1919.github.io/Fainal/)
